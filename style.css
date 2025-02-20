@@ -12,3 +12,10 @@ textarea:focus {
 input[type=text]:focus {
     background-color: lightblue;
 }
+
+
+.erreur{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
